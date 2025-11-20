@@ -10,8 +10,7 @@ Guía paso a paso para instalar Moodle 5.1 en un sistema Debian con Apache2, Mar
 Actualizar el sistema:
 
 ```bash
-sudo apt update
-sudo apt upgrade -y
+sudo apt update && sudo apt upgrade -y
 ```
 
 Instalar Apache, MariaDB y PHP con extensiones:
