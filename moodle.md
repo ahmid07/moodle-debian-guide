@@ -1,5 +1,5 @@
 # moodle-debian-guide
-
+```bash
 #!/bin/bash
 # Script para instalar Moodle 5.1 en Debian con Apache2, MariaDB y PHP
 # Manteniendo WordPress en /var/www/html
