@@ -162,5 +162,3 @@ Ambos sitios deben funcionar correctamente.
 * Este README está listo para subir a GitHub.
 
 ---
-
-Si quieres, puedo hacer también un **script Bash que haga todos los pasos automáticamente**, para no tener que copiar comandos uno por uno. Esto sería muy práctico si quieres repetir la instalación o documentarla.
