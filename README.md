@@ -200,12 +200,3 @@ WordPress| `http://midominio.local` | ✅
 Moodle   | `http://moodle.local` | ✅
 Permisos | Correctos | ✅
 Extensiones PHP | Instaladas | ✅
-
----
-
-Si quieres, puedo también: 
-- Añadir un archivo separado con instrucciones de configuración de PHP (php.ini y módulos recomendados).
-- Crear archivos de configuración de Apache para ambos sitios con ejemplos listos para usar.
-- Preparar un script automatizado para una instalación no interactiva (con advertencias sobre seguridad).
-
-Indica qué prefieres y lo añado.
